@@ -11,7 +11,7 @@ public class Student {
     private int joinedYear;
     private String city;
     private int rank;
-
+    private int changes;
     public Student(int id, String firstName, String lastName, int age, String gender, String departmentName, int joinedYear, String city, int rank) {
         this.id = id;
         this.firstName = firstName;
