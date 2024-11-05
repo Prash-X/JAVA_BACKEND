@@ -18,7 +18,6 @@ public class Main {
                 new Student(6, "Eve", "Wilson", 21, "Female", "Computer", 2020, "Philadelphia", 4),
                 new Student(7, "Frank", "Miller", 24, "Male", "Chemical", 2018, "San Antonio", 1),
                 new Student(8, "Grace", "Martinez", 22, "Female", "Aerospace", 2021, "San Diego", 7),
-                new Student(9, "Henry", "Taylor", 20, "Male", "Computer", 2022, "Dallas", 9),
                 new Student(10, "Ivy", "Anderson", 13, "Female", "Mechanical", 2019, "New York", 10)
         );
 
