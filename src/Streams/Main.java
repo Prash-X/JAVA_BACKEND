@@ -67,6 +67,7 @@ public class Main {
         System.out.println(students.stream()
                 .mapToInt(Student::getAge)
                 .average().orElse(0));
+        System.out.println("Hi");
     }
 }
 /*OUTPUT for the above code:
